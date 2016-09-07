@@ -1,6 +1,14 @@
 # jira-estimates
 
+## installation
 
+1. clone
+2. npm link
+
+## usage
+```sh
+jira-estimates
+```
 
 
 
